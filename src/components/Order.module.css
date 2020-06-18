@@ -1,0 +1,29 @@
+.form{
+    margin: auto 500px;
+
+}
+.input{
+    padding: 10px;
+    min-width: 280px;
+}
+.label{
+    font-weight: 600;
+    margin-bottom: 15px;
+    min-width: 280px;
+}
+.name{
+    margin: 10px 0;
+}
+.button{
+    background-color: #2193de;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    color:white;
+}
+.item{
+    color: black;
+    margin: 10px 0 10px 0;
+    background-color: #E6E6E6;
+    border-radius: 15px;
+}
